@@ -20,10 +20,10 @@ public static void main(String[] args) throws Exception {
        }
        System.out.println();
    }
-   
  }
 
-}  */
+} */
+
 //state of wakanda 1
 /*
 public class Main{
